@@ -1,5 +1,0 @@
-train: ../data/exported/train
-val: ../data/exported/val
-
-nc: 1
-names: [panel]
